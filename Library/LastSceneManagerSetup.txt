@@ -1,4 +1,10 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Scenes/MainMenu.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/InGame.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/PauseMenu.unity
+  isLoaded: 1
+  isActive: 0
